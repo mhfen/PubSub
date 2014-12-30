@@ -1,0 +1,13 @@
+{
+  "name": "PubSub",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhfen/PubSub.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.2"
+  }
+}
